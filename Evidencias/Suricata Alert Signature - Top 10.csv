@@ -1,0 +1,11 @@
+﻿ID,Description,Count
+2001117,"ET DNS Standard query response, Name Error","20,614"
+2024766,"ET EXPLOIT [PTsecurity] DoublePulsar Backdoor installation communication","5,587"
+2402000,"ET DROP Dshield Block Listed Source group 1","1,137"
+2009582,"ET SCAN NMAP -sS window 1024",419
+2002752,"ET INFO Reserved Internal IP Traffic",282
+2210037,"SURICATA STREAM FIN recv but no session",272
+2008284,"ET INFO Inbound HTTP CONNECT Attempt on Off-Port",252
+2210041,"SURICATA STREAM RST recv but no session",233
+2210061,"SURICATA STREAM spurious retransmission",186
+2060252,"ET INFO Go-http-client User-Agent Observed Inbound",99

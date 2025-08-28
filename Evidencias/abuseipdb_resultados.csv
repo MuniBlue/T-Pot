@@ -1,0 +1,11 @@
+IP,Abuse Score,Total Reportes,Último Reporte,País,Dominio,ISP,Tipo de Uso,Hostname
+89.248.165.133,100,155,2025-06-18T00:01:11+00:00,NL,recyber.net,RECYBER PROJECT NETBLOCK,Data Center/Web Hosting/Transit,recyber.net
+89.248.163.83,100,127,2025-06-18T05:32:36+00:00,NL,recyber.net,RECYBER PROJECT NETBLOCK,Data Center/Web Hosting/Transit,N/A
+1.95.78.10,100,28,2025-06-17T22:40:57+00:00,CN,drpeng.com.cn,"Beijing Teletron Telecom Engineering Co., Ltd.",Data Center/Web Hosting/Transit,ecs-1-95-78-10.compute.hwclouds-dns.com
+89.248.163.57,100,122,2025-06-18T00:01:19+00:00,NL,recyber.net,RECYBER PROJECT NETBLOCK,Data Center/Web Hosting/Transit,N/A
+89.248.163.218,100,97,2025-06-17T21:06:53+00:00,NL,recyber.net,RECYBER PROJECT NETBLOCK,Data Center/Web Hosting/Transit,recyber.net
+143.110.142.48,100,680,2025-06-18T08:50:58+00:00,US,digitalocean.com,"DigitalOcean, LLC",Data Center/Web Hosting/Transit,prod-beryllium-sfo2-31.do.binaryedge.ninja
+149.40.50.205,66,35,2025-06-17T12:44:50+00:00,US,datacamp.co.uk,Datacamp Limited,Data Center/Web Hosting/Transit,unn-149-40-50-205.datapacket.com
+146.70.212.85,38,41,2025-06-18T09:49:39+00:00,US,m247.com,M247 New Jersey Infrastructure,Data Center/Web Hosting/Transit,N/A
+185.91.127.81,100,24705,2025-06-18T13:30:41+00:00,DE,tube-hosting.com,Ferdinand Zink trading as Tube-Hosting,Data Center/Web Hosting/Transit,tube-hosting.com
+134.122.78.78,100,134,2025-06-18T00:07:14+00:00,DE,digitalocean.com,"DigitalOcean, LLC",Data Center/Web Hosting/Transit,N/A

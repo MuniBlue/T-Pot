@@ -1,0 +1,55 @@
+﻿"geoip.country_name.keyword: Descending","Timestamp per 3 hours",Attacks
+"United States","2025-06-12 18:00",127
+"United States","2025-06-13 09:00",179
+"United States","2025-06-13 12:00",265
+"United States","2025-06-13 15:00",75
+"United States","2025-06-13 18:00",209
+"United States","2025-06-14 09:00",40
+"United States","2025-06-14 12:00",290
+"United States","2025-06-15 09:00",2
+"United States","2025-06-15 12:00",119
+"United States","2025-06-16 00:00",109
+"United States","2025-06-16 09:00",94
+"United States","2025-06-16 12:00",302
+"United States","2025-06-16 15:00",256
+"The Netherlands","2025-06-12 18:00",100
+"The Netherlands","2025-06-13 09:00",4
+"The Netherlands","2025-06-13 12:00",4
+"The Netherlands","2025-06-13 15:00",38
+"The Netherlands","2025-06-13 18:00",2
+"The Netherlands","2025-06-14 12:00",5
+"The Netherlands","2025-06-15 12:00",117
+"The Netherlands","2025-06-16 00:00",223
+"The Netherlands","2025-06-16 09:00",184
+"The Netherlands","2025-06-16 12:00",465
+"The Netherlands","2025-06-16 15:00",16
+China,"2025-06-12 18:00",1
+China,"2025-06-13 09:00",22
+China,"2025-06-13 12:00",14
+China,"2025-06-13 15:00",6
+China,"2025-06-13 18:00",5
+China,"2025-06-14 12:00",3
+China,"2025-06-15 12:00",13
+China,"2025-06-16 00:00",1
+China,"2025-06-16 12:00",5
+China,"2025-06-16 15:00",202
+Canada,"2025-06-13 12:00",28
+Canada,"2025-06-13 15:00",2
+Canada,"2025-06-13 18:00",1
+Canada,"2025-06-14 09:00",12
+Canada,"2025-06-15 12:00",1
+Canada,"2025-06-16 00:00",3
+Canada,"2025-06-16 09:00",10
+Canada,"2025-06-16 12:00",50
+Canada,"2025-06-16 15:00",21
+Germany,"2025-06-12 18:00",2
+Germany,"2025-06-13 09:00",3
+Germany,"2025-06-13 12:00",4
+Germany,"2025-06-13 15:00",9
+Germany,"2025-06-13 18:00",11
+Germany,"2025-06-14 09:00",7
+Germany,"2025-06-15 12:00",12
+Germany,"2025-06-16 00:00",4
+Germany,"2025-06-16 09:00",12
+Germany,"2025-06-16 12:00",9
+Germany,"2025-06-16 15:00",74
